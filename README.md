@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mocheera
-- 👀 I’m interested in: art,learning languages, and the environment. 
+- 👀 I’m interested in: art, learning languages, and the environment. 
 - 🌱 I’m currently learning: Python and software development. 
 
 <!---
