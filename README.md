@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mocheera
+- 👋 Hi, I’m Mary Dee 
 - 👀 I’m interested in: art, languages, and the environment. 
 - 🌱 I’m a web designer and marketer based in the North of England. 
 
